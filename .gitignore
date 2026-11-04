@@ -1,0 +1,8 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Mixamo downloads (Adobe assets, keep out of the repo)
+Mixamo/*.fbx
